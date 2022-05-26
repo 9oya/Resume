@@ -1,5 +1,11 @@
 # LEE EUN SANG
 
+[![iOS](https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/)
+[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Leetcode](https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9oya)
+[![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eido9oya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunsang-lee-2661281a1)
+
 ## 프로젝트 수행이력 👨‍💻
 ### [보맵] 마이데이터 서비스 개발 (2021.10 ~ 2022.05.30)
 시작: 2021.10.01\
